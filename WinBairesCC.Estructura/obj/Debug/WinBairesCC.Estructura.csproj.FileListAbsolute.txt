@@ -1,0 +1,5 @@
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC.Estructura\bin\Debug\WinBairesCC.Estructura.dll
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC.Estructura\bin\Debug\WinBairesCC.Estructura.pdb
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC.Estructura\obj\Debug\WinBairesCC.Estructura.dll
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC.Estructura\obj\Debug\WinBairesCC.Estructura.pdb
+C:\Users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC.Estructura\obj\Debug\WinBairesCC.Estructura.csprojResolveAssemblyReference.cache

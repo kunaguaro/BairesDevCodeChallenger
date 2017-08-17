@@ -1,0 +1,11 @@
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\bin\Debug\WinBairesCC.exe.config
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\bin\Debug\WinBairesCC.exe
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\bin\Debug\WinBairesCC.pdb
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\obj\Debug\WinBairesCC.csprojResolveAssemblyReference.cache
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\obj\Debug\WinBairesCC.Form1.resources
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\obj\Debug\WinBairesCC.Properties.Resources.resources
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\obj\Debug\WinBairesCC.csproj.GenerateResource.Cache
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\obj\Debug\WinBairesCC.exe
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\obj\Debug\WinBairesCC.pdb
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\bin\Debug\WinBairesCC.Estructura.dll
+c:\users\orh_2\documents\visual studio 2017\Projects\WinBairesCC\WinBairesCC\bin\Debug\WinBairesCC.Estructura.pdb
